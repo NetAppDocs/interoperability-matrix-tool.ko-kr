@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: the-activeiq-interop-advisor-tool.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Active IQ Interop Advisor 도구를 사용하면 특정 조건을 사용하여 검색할 때 호환성 보고서를 생성할 수 있습니다. 
+---
+= 호환성을 확인하기 위한 Active IQ Interop Advisor 도구
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Active IQ Interop Advisor* 도구를 사용하면 특정 조건을 사용하여 검색할 때 호환성 보고서를 생성할 수 있습니다.
+
+다음 조건 중 하나로 검색할 수 있습니다.
+
+* 일련 번호입니다
+* 클러스터 ID입니다
+* OneCollect 작업 ID입니다
+
+
+이전 검색 기준 정보는 * MyAutoSupport * 에서 확인할 수 있습니다.

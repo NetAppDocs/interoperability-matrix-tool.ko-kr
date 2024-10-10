@@ -1,0 +1,27 @@
+---
+sidebar: sidebar 
+permalink: viewing-policies-and-guidelines.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, host, os 
+summary: 정책 및 지침 페이지에는 솔루션과 관련된 모든 최신 정보 및 지침이 설명되어 있습니다. 
+---
+= 정책 및 지침을 봅니다
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+:firstname: [.lead]
+:author: [.lead]
+:authorinitials: [
+:authors: [.lead]
+:revdate: The *Policies &amp; Guidelines* link opens the Policies and Guidelines page for the selected solution.
+
+
+정책 및 지침 페이지에는 솔루션과 관련된 모든 최신 정보 및 지침이 설명되어 있습니다.
+
+
+
+== 단계
+
+. Playground * 페이지에서 * Policies & Guidelines * 를 클릭합니다. Policies and Guidelines * 페이지가 열립니다.
+. 솔루션에 대한 최신 뉴스, 지침, 정책 정보 및 저작권을 검토하십시오. Playground * 페이지에서 해당 정책에 대한 다른 정책 및 지침을 보도록 솔루션을 변경할 수 있습니다.
+. 페이지를 닫고 * Playground * 페이지로 돌아갑니다.
+

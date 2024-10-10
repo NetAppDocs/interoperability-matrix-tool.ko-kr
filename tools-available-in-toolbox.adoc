@@ -1,0 +1,47 @@
+---
+sidebar: sidebar 
+permalink: tools-available-in-toolbox.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Active IQ Interop Advisor, Synergy, BURT, EPIC, LatX, tech, refresh, tool 
+summary: Toolbox * 탭에는 세 가지 사용자 범주로 구분되는 유용한 도구 목록이 표시됩니다. 각 도구에 대한 링크가 표시됩니다. 
+---
+= Toolbox에서 사용할 수 있는 도구
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Toolbox * 탭에는 세 가지 사용자 범주로 구분되는 유용한 도구 목록이 표시됩니다. 각 도구에 대한 링크가 표시됩니다.
+
+* 있을 것입니다
++
+** Active IQ
+** Config Advisor
+** ConfigEdge를 선택합니다
+** Hardware Universe
+** Active IQ Interop Advisor 를 참조하십시오
+** NetApp 공용 웹 사이트
+** NetApp Support 사이트
+** 1회 수집
+** 통합 구문 분석기
+
+
+* 파트너가 재판매할 수 있습니다
++
+** Field Portal을 참조하십시오
+** 라텍스
+** QuoteEdge를 참조하십시오
+** 스마트솔브주식회사
+** 시너지
+** System Performance Modeler에서 직접 지원합니다
+** 기술 업데이트 툴
+
+
+* NetApp 내부용
++
+** 민첩성
+** 굽기
+** 성공
+
+
+

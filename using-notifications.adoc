@@ -1,0 +1,17 @@
+---
+sidebar: sidebar 
+permalink: using-notifications.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: 알림 메뉴에 현재 알림이 표시됩니다. 
+---
+= 알림을 사용합니다
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+알림 * 메뉴에 현재 알림이 표시됩니다.

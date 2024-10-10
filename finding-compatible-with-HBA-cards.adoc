@@ -1,0 +1,43 @@
+---
+sidebar: sidebar 
+permalink: finding-compatible-with-hba-cards.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, compatible, hba, cards 
+summary: 상호 운용성 매트릭스 툴을 사용하면 FCoE의 Cisco UCS P81E 카드와 같은 구성에서 지원되는 호스트 운영 체제를 확인할 수 있습니다. 
+---
+= HBA 카드와의 호환성을 찾습니다
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+ONTAP SAN 호스트 간소화 * 기능을 사용하면 UI가 간소화되고 세 가지 구성 요소로 압축됩니다. 이전 버전의 UI에는 13개의 구성 요소가 있었습니다. 나머지 10개 구성 요소는 해당 공급업체에서 지원하는 경우 NetApp에서 암시적으로 지원합니다. * 참고 * 및 * 경고 * 는 솔루션별로 분류되며 각 결과에 추가됩니다.
+
+상호 운용성 매트릭스 툴(IMT)에서 지원되는 3가지 구성 요소는 ONTAP OS, 호스트 OS 및 프로토콜입니다.
+
+IMT을 사용하여 ONTAP에서 호스트 OS 지원 가능성을 검증할 수 있습니다.
+
+예를 들어, Cisco 다음 구성을 사용하여 ONTAP에서 Cisco UCS(Unified Computing System) 블레이드 서버 지원 가능성을 검증합니다.
+
+* Cisco UCS 블레이드 서버 구성의 예 *
+
+* ONTAP 운영체제: 9.13.1
+* 호스트 OS: Red Hat Enterprise Linux 9.2
+* 서버 모델: Cisco UCS B200 M6 블레이드 서버
+* 호스트 버스 어댑터(HBA)
++
+** 모델: Cisco UCSB-mLOM-40G-04: Cisco UCS 1440 가상 인터페이스 카드
+** 드라이버 버전: 1.6.0.53 FNIC
+** 펌웨어 버전: 5.3 (2)
+
+
+* UCS 서버 펌웨어: 5.2(0)
+* 프로토콜: FCoE
+
+
+* Cisco UCS 블레이드 서버 지원 가능성 검증 *
+
+* IMT에서 * ONTAP SAN 호스트 간소화 * 기능을 사용하여 ONTAP 9.13.1, Red Hat Enterprise Linux 9.2 및 FCoE 프로토콜이 지원되는 구성으로 나열되는지 확인합니다.
+* NetApp에서 지원하는 HBA 공급업체는 Broadcom, Marvell 및 Cisco입니다. Cisco는 지원되는 어댑터 목록에 포함되어 있으며 이는 Cisco VIC(가상 인터페이스 카드)도 지원됨을 의미합니다.
+* 공급업체 하드웨어 호환성 목록(HCL)을 사용하여 Cisco "UCS 하드웨어 및 소프트웨어 호환성"을 확인하십시오. 이전 서버 구성 목록에서 언급한 대로 HBA 어댑터 모델, UCS 서버 펌웨어 버전, HBA 드라이버 및 펌웨어 버전이 Red Hat Enterprise Linux 9.2에서 지원되는지 확인합니다.
+

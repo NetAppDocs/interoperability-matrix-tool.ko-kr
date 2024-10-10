@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: modify-the-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 검색 기준 구체화 페이지에서 검색 기준을 수정하여 솔루션, 구성 요소 또는 범주를 조건에 추가할 수 있습니다. 
+---
+= 검색 기준을 수정합니다
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+검색 기준 구체화 * 페이지에서 검색 기준을 수정하여 솔루션, 구성 요소 또는 범주를 조건에 추가할 수 있습니다.
+
+
+
+== 단계
+
+. 검색 기준 구체화 * 페이지에서 * 기준 변경 * 을 클릭합니다.
+. 검색 조건 페이지에서 검색 텍스트 상자를 사용하여 솔루션, 구성 요소 또는 범주를 추가할 수 있습니다.
+. 다음 * 을 클릭하여 * 검색 기준 구체화 * 페이지에서 호환 가능한 구성을 봅니다.
+

@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: unsubscribe-the-subscribed-config.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 업데이트를 더 받으려면 결과 페이지에서 구성을 구독 취소할 수 있습니다. 
+---
+= 구독한 구성을 구독 취소합니다
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+업데이트를 더 받으려면 * 결과 * 페이지에서 구성을 구독 취소할 수 있습니다.
+
+
+
+== 시작하기 전에
+
+결과 * 페이지에서 구성을 구독해야 합니다.
+
+구성 구독을 취소하려면:
+
+* Results * 페이지에서 별표를 클릭하여 가입된 구성을 취소합니다. 즐겨찾기 목록에서 구성을 제거하면 구성이 자동으로 구독 취소됩니다.
+

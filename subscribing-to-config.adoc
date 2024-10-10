@@ -1,0 +1,36 @@
+---
+sidebar: sidebar 
+permalink: subscribing-to-config.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 특정 솔루션 또는 구성 요소에 대해 원하는 이름을 사용하여 구성을 구독할 수 있습니다. 
+---
+= 구성을 구독하십시오
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+특정 솔루션 또는 구성 요소에 대해 원하는 이름을 사용하여 구성을 구독할 수 있습니다. 이렇게 하면 구독 행에 업데이트나 변경 사항이 있을 때 이메일로 업데이트를 받을 수 있습니다. 최대 20개의 구성을 구독할 수 있습니다.
+
+
+
+== 이 작업에 대해
+
+다음과 같은 경우에 대한 이메일을 받을 수 있습니다.
+
+* 구성 요소가 설정에 추가될 때
+* 부품이 설정에서 삭제될 때
+* 설정에서 노트가 추가되거나 삭제될 때
+* 구성 상태가 지원됨에서 추가 터미널 상태(EOS, Obsolete 등)로 변경된 경우
+
+
+
+
+== 단계
+
+. 결과 * 페이지에서 별표를 클릭하여 구성을 저장합니다. 구성을 저장하면 별표가 노란색으로 바뀝니다. 최대 20개의 구성을 저장할 수 있습니다.
+. 태그 구성 * 대화 상자에서 이름과 설명을 입력하여 참조할 구성을 북마크합니다.
+. 이 구성에 가입 * 확인란을 클릭합니다.
+. 태그 * 를 클릭합니다.
+

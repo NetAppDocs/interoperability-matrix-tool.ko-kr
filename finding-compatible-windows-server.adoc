@@ -1,0 +1,18 @@
+---
+sidebar: sidebar 
+permalink: finding-compatible-windows-server.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, windows, server 
+summary: 상호 운용성 매트릭스 도구를 사용하여 해당 제품의 호환 가능한 Windows Server 호스트를 볼 수 있습니다. 
+---
+= 해당 제품에 맞는 호환 가능한 Windows Server 호스트를 찾습니다
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+상호 운용성 매트릭스 도구를 사용하여 해당 제품의 호환 가능한 Windows Server 호스트를 볼 수 있습니다.
+
+워크플로는 다음과 같습니다.
+
+image::pg13_imt.png[pg13 IMT 를 참조하십시오]

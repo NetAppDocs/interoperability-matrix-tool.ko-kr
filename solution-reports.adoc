@@ -1,0 +1,14 @@
+---
+sidebar: sidebar 
+permalink: solution-reports.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, component, EOVS, Summary 
+summary: Excel 또는 PDF 버전의 솔루션 보고서를 보고 다운로드할 수 있습니다. 
+---
+= 솔루션 보고서
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+보고서 > 일일 내보내기 완료 * 기능을 사용하여 솔루션 보고서의 Excel 또는 PDF 버전을 보고 다운로드할 수 있습니다. 또한 버전 지원이 종료된 구성 요소가 나열된 * 구성요소 EOVS 요약 * 의 Excel 버전을 다운로드할 수도 있습니다.

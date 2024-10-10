@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: viewing-recent-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: IMT 시작 페이지에서 저장된 검색 기준을 로드하여 최근 검색을 표시할 수 있습니다. 
+---
+= 최근 검색 기준을 봅니다
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+IMT* 시작 페이지에서 저장된 검색 기준을 로드하여 최근 검색을 표시할 수 있습니다.
+
+
+
+== 시작하기 전에
+
+최근 검색을 저장했어야 합니다.
+
+
+
+== 단계
+
+. 저장된 검색 * 을 클릭합니다.
+. 최근 저장된 검색을 보려면 * 최근 검색 * 탭을 선택합니다. 최근 검색 내용이 표시됩니다.
+. 저장된 특정 검색 기준을 보려면 * 검색 기준 * 탭을 선택합니다. 저장된 기준이 표시됩니다.
+

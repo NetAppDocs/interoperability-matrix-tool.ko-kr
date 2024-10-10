@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: saving-a-recent-search.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: IMT 시작 페이지에서 최근 검색을 저장하여 이후 검색에 대한 기준을 유지할 수 있습니다. 
+---
+= 최근 검색을 저장합니다
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+IMT 시작 페이지에서 최근 검색을 저장하여 이후 검색에 대한 기준을 유지할 수 있습니다.
+
+
+
+== 단계
+
+. 솔루션 검색 * 또는 * 고급 검색 * 을 클릭합니다.
+. 검색 기준을 선택합니다.
+. 결과로 건너뛰기 * 를 선택하거나 * 다음 * 을 클릭하여 검색 기준을 구체화한 다음 * 지원되는 구성 보기 * (결과) 페이지로 이동합니다. 조건이 자동으로 저장되었음을 알리는 팝업 대화 상자가 나타납니다.
+

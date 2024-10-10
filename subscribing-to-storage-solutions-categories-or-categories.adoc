@@ -1,0 +1,21 @@
+---
+sidebar: sidebar 
+permalink: subscribing-to-storage-solutions-categories-or-categories.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: 단일 또는 여러 스토리지 솔루션, 범주 또는 구성 요소를 구독할 수 있습니다. 
+---
+= 스토리지 솔루션, 범주 또는 구성 요소를 구독하십시오
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+단일 또는 여러 스토리지 솔루션, 범주 또는 구성 요소를 구독할 수 있습니다.
+
+구독 * 탭을 사용하여 다음 구독에 가입할 수 있습니다.
+
+* 스토리지 솔루션 구독
+* 카테고리 구독
+* 구성 요소 구독
+

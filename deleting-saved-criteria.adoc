@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: deleting-saved-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 저장된 검색 기준을 삭제할 수 있습니다. 
+---
+= 저장된 기준을 삭제합니다
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+저장된 검색 기준을 삭제할 수 있습니다.
+
+
+
+== 이 작업에 대해
+
+저장된 기준을 삭제하려면 저장된 기준의 이름이 있어야 합니다.
+
+
+
+== 단계
+
+. 조치 * 열 아래에 있는 삭제 아이콘 * X * 를 클릭합니다. 저장된 기준을 삭제할 것인지 묻는 팝업이 표시됩니다.
+. 저장된 기준을 삭제하려면 * Yes * 를 클릭합니다.
+. 저장된 기준을 유지하려면 * No * 를 클릭하십시오.
+

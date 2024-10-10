@@ -1,0 +1,14 @@
+---
+sidebar: sidebar 
+permalink: working-with-saved-criteria-recent-searches-and-config.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 검색 기준 및 구성을 저장하고 업데이트할 수 있습니다. 
+---
+= 저장된 기준, 최근 검색 및 구성 작업
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+검색 기준 및 구성을 저장하고 업데이트할 수 있습니다. 저장된 기준과 설정을 로드, 편집, 삭제할 수 있습니다.

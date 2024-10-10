@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: how-to-use-what-if.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: * 가상 * 을 사용하면 지원되는 모든 구성을 탐색할 수 있습니다. 
+---
+= 가상 시나리오 사용 방법
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+* 가상 * 을 사용하면 지원되는 모든 구성을 탐색할 수 있습니다. 가상* 기능을 사용하여 선택한 구성의 구성 요소를 업그레이드 또는 다운그레이드하고 호환성을 탐색할 수 있습니다. 구성 요소를 업그레이드하거나 다운그레이드한 후 지원되는 모든 구성을 보려면 * Export * 옵션을 사용하여 구성 세부 정보를 Excel 워크시트나 PDF로 내보낼 수 있습니다.
+
+What if * 창에서 업그레이드 또는 다운그레이드할 특정 구성 요소를 선택한 후 선택한 구성 요소가 구성의 다른 구성 요소와 호환되는지 또는 일치하는 구성이 없는지 확인할 수 있습니다. 일치하는 설정이 없는 경우, 초기 조건을 확장하여 더 많은 설정을 파생시키는 것을 고려해야 합니다.
+
+가상* 창은 두 개의 창으로 나누어집니다.
+
+* 위쪽 창은 선택한 구성 요소가 유효한 설정과 일치하는지 여부를 나타냅니다.
+* 아래쪽 창에는 다양한 범주와 해당 구성 요소 버전이 표시됩니다.
+
+
+원하는 구성을 찾을 수 없으면 * Feedback * 을 클릭하여 문제를 보고합니다.
+
+자세한 내용은 을 link:reporting-an-issue.html["문제를 보고하십시오"]참조하십시오.

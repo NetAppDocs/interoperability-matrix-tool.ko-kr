@@ -1,0 +1,18 @@
+---
+sidebar: sidebar 
+permalink: finding-compatible-host-os.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, host, os, matrix 
+summary: 상호 운용성 매트릭스 툴을 사용하면 귀사 제품과 호환되는 지원되는 호스트 운영 체제를 확인할 수 있습니다. 
+---
+= 해당 제품에 맞는 호환 가능한 호스트 운영 체제를 찾습니다
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+상호 운용성 매트릭스 툴을 사용하면 귀사 제품과 호환되는 지원되는 호스트 운영 체제를 확인할 수 있습니다.
+
+워크플로는 다음과 같습니다.
+
+image::pg12_imt.png[pg12 IMT 를 참조하십시오]

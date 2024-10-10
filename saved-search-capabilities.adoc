@@ -1,0 +1,18 @@
+---
+sidebar: sidebar 
+permalink: saved-search-capabilities.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, search, criteria, solution , explorer 
+summary: 이전에 저장된 검색 결과, 최근 검색 결과 및 저장된 구성으로 이동할 수 있는 * 저장된 검색 * 메뉴를 사용하여 다른 솔루션이나 구성을 로드할 수 있습니다. 
+---
+= 저장된 검색 기능
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+이전에 저장된 검색 결과, 최근 검색 결과 및 저장된 구성으로 이동할 수 있는 * 저장된 검색 * 메뉴를 사용하여 다른 솔루션이나 구성을 로드할 수 있습니다.
+
+검색 기준 * 탭에는 저장된 검색이 저장됩니다. 이 탭에서는 다른 사용자가 공유한 검색을 공유하거나 볼 수 있습니다. Configuration * 탭에는 저장된 구성이 들어 있습니다. 이 탭에서 다른 사용자가 공유한 구성을 공유하거나 볼 수 있습니다.
+
+최근 검색 * 탭에는 최근 검색 기준부터 가장 오래된 것까지 최근 30개의 검색 기준 세트가 있습니다. 또한 * 목록 및 찾기, 솔루션 탐색기 또는 고급 검색 * 과 같은 원본 페이지를 나타내는 * 검색 흐름 * 이 나열됩니다. 기준이 자동으로 저장됩니다. 또한 이 페이지에는 저장된 검색 또는 최근 검색의 * 마지막 수정일 * 이 나열됩니다. 목록에서 * Load * 를 선택하여 조건 또는 설정을 각각 볼 수 있습니다.
