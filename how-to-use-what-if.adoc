@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: how-to-use-what-if.html 
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
-summary: * 가상 * 을 사용하면 지원되는 모든 구성을 탐색할 수 있습니다. 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network 
+summary: 지원되는 가능한 모든 구성을 탐색할 수 있는 경우 
 ---
 = 가상 시나리오 사용 방법
 :allow-uri-read: 

@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: saved-search-capabilities.html 
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, search, criteria, solution , explorer 
-summary: 이전에 저장된 검색 결과, 최근 검색 결과 및 저장된 구성으로 이동할 수 있는 * 저장된 검색 * 메뉴를 사용하여 다른 솔루션이나 구성을 로드할 수 있습니다. 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, search, criteria, solution, explorer 
+summary: 저장된 검색 메뉴를 사용하여 다른 솔루션이나 구성을 로드할 수 있습니다. 이 메뉴를 사용하면 이전에 저장된 검색 결과, 최근 검색 결과 및 저장된 구성으로 이동할 수 있습니다. 
 ---
 = 저장된 검색 기능
 :allow-uri-read: 

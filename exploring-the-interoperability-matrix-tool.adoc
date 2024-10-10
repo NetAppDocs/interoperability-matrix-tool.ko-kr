@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: exploring-the-interoperability-matrix-tool.html 
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network 
 summary: '상호 운용성 매트릭스 툴(IMT) 은 NetApp 제품에 대한 호환성 및 지원되는 구성을 검색하는 데 사용하는 웹 기반 애플리케이션입니다.' 
 ---
 = 상호 운용성 매트릭스 툴을 살펴보십시오

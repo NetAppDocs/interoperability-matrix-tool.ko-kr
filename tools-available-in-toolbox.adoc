@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: tools-available-in-toolbox.html 
 keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Active IQ Interop Advisor, Synergy, BURT, EPIC, LatX, tech, refresh, tool 
-summary: Toolbox * 탭에는 세 가지 사용자 범주로 구분되는 유용한 도구 목록이 표시됩니다. 각 도구에 대한 링크가 표시됩니다. 
+summary: Toolbox 탭에는 세 가지 사용자 범주로 구분되는 유용한 도구 목록이 표시됩니다. 각 도구에 대한 링크가 표시됩니다. 
 ---
 = Toolbox에서 사용할 수 있는 도구
 :allow-uri-read: 
